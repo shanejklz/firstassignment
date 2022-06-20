@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid {
+height: 100vh;
+
+display: grid;
+
+grid-template-rows:1fr 1fr 1fr 1fr 1fr;
+gap: 24px;
+}
+
+.header {
+    background-color: lightseagreen;
+}
+
+.navigation {
+    background-color: lightsalmon;
+}
+
+.content {
+    background-color: lightslategray;
+}
+
+.sidebar {
+    background-color: lightpink;
+}
+
+.small-sidebar {
+    background-color: lightcyan;
+}
+
+.footer {
+    background-color: lightcoral
+    ;
+}
