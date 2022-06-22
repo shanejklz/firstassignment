@@ -39,12 +39,18 @@
 }
 
 .navigation a {
-    display: inline-block;
+    display: block;
+    float: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    width: 33.33%;
     text-align: center;
     text-decoration: none;
 }
+
+.navigation a:hover {
+    background-color: #000;
+  }
 
 
 .content {
