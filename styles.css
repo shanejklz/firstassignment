@@ -16,7 +16,7 @@
 
 .header {
     background: rgb(195, 143, 34);
-    background: linear-gradient(0deg, rgba(195, 143, 34, 1) 0%, rgba(122, 165, 211, 1) 43%, rgba(0, 74, 180, 1) 100%); */
+    background: linear-gradient(0deg, rgba(195, 143, 34, 1) 0%, rgba(122, 165, 211, 1) 43%, rgba(0, 74, 180, 1) 100%);
     /* background-image: url(./images/bannerimagegrass.jpg); */
     grid-column: 1 / span 12;
 }
