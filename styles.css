@@ -33,13 +33,19 @@
     grid-column: 2 / span 10;
 }
 
-.navigation a {
-        display: inline-block;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color: white;
-        text-align: center;
-        text-decoration: none;
+.navigation li {
+    list-style: none;
+
 }
+
+.navigation a {
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
 
 .content {
     background-color: lightgray;
