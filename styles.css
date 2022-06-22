@@ -30,7 +30,7 @@
 .navigation {
     background-color: rgb(225, 126, 87);
     grid-row: 2;
-    grid-column: 1 / span 12;
+    grid-column: 2 / span 10;
 }
 
 .navigaton li {
@@ -44,7 +44,7 @@
 .content {
     background-color: lightgray;
     grid-row: 3;
-    grid-column: 1 / span 12;
+    grid-column: 3 / span 9;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -53,4 +53,5 @@
     background-color: lightcoral;
     margin: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    grid-column: 1 / span 12;
 }
