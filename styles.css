@@ -45,6 +45,7 @@
     background-color: lightgray;
     grid-row: 3;
     grid-column: 3 / span 9;
+    padding: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -53,5 +54,6 @@
     background-color: lightcoral;
     margin: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     grid-column: 1 / span 12;
 }
