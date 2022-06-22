@@ -33,7 +33,7 @@
     grid-column: 2 / span 10;
 }
 
-.navigaton li {
+.navigation a {
         display: inline-block;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         color: white;
@@ -44,7 +44,7 @@
 .content {
     background-color: lightgray;
     grid-row: 3;
-    grid-column: 3 / span 9;
+    grid-column: 3 / span 8;
     padding: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
