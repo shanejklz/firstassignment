@@ -18,13 +18,17 @@
     /* background: rgb(195, 143, 34);
     background: linear-gradient(0deg, rgba(195, 143, 34, 1) 0%, rgba(122, 165, 211, 1) 43%, rgba(0, 74, 180, 1) 100%); */
     background-image: url(./images/bannerimagegrass.jpg);
+    grid-column: 1 / span 12;
+}
+
+.header h1 {
     color: white;
     margin: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: xx-large;
+    font-size: xxx-large;
     font-weight: bold;
     text-align: center;
-    grid-column: 1 / span 12;
+    vertical-align: middle;
 }
 
 .navigation {
@@ -62,10 +66,17 @@
 
 }
 
+.articlebox {
+    background-color: lightgray;
+    grid-column: 3 / span 8;
+
+}
+
 .footer {
     background-color: lightcoral;
     margin: 1%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    vertical-align: middle;
     grid-column: 1 / span 12;
 }
