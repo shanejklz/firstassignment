@@ -72,6 +72,10 @@
 
 }
 
+.content h3 {
+    margin: 1%;
+}
+
 .articlebox {
     grid-row: 4 / 6;
 }
@@ -84,7 +88,7 @@
 }
 
 .articlebox figure {
-    position:relative;
+    position: relative;
 }
 
 .imagetext {
