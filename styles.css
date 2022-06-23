@@ -74,12 +74,21 @@
 
 .articlebox {
     grid-row: 4 / 6;
+    text-align: center;
 }
 
 .articlebox img {
     display: block;
     max-width: 100%;
-    margin:auto;
+    margin: auto;
+    padding: 2%;
+}
+
+.imagetext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .footer {
