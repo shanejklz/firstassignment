@@ -80,15 +80,15 @@
     max-width: 100%;
 }
 
-#picture1 {
+#picture1 * {
     grid-column: 3 / 4;
 }
 
-#picture2 {
+#picture2 * {
     grid-column: 5 / 6;
 }
 
-#picture3 {
+#picture3 * {
     grid-column: 7 / 8;
 }
 
