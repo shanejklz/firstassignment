@@ -29,16 +29,16 @@
     font-size: xxx-large;
     font-weight: bold;
     text-shadow:
-    -1px -1px 0 #000,  
-     1px -1px 0 #000,
-     -1px 1px 0 #000,
-      1px 1px 0 #000;
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
     display: inline-block;
     vertical-align: middle;
 }
 
 .navigation {
-    background-color: rgb(225, 126, 87);
+    background-color: #eb6715;
     grid-row: 2;
     grid-column: 2 / span 10;
 }
@@ -60,7 +60,7 @@
 
 .navigation a:hover {
     background-color: #000;
-  }
+}
 
 
 .content {
@@ -77,7 +77,9 @@
 }
 
 .articlebox img {
+    display: block;
     max-width: 100%;
+    margin:auto;
 }
 
 #picture1 {
@@ -93,7 +95,7 @@
 }
 
 .footer {
-    background-color: lightcoral;
+    background-color: #912703;
     margin: 1%;
     grid-column: 1 / span 12;
     grid-row: 6;
@@ -106,4 +108,3 @@
     text-align: center;
     vertical-align: middle;
 }
-    
