@@ -126,9 +126,11 @@ body {
 
 #contactForm fieldset {
     border: none;
+    margin: 3%;
 }
 
 #contactForm legend {
+    margin-bottom: 2%;
 
 }
 
