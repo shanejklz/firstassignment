@@ -115,8 +115,9 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
     color: white;
-    font-size: x-large;
+    font-size: 3.2vmax;
     font-style: italic;
+    line-height: 1.4;
     text-shadow:
         -1px -1px 0 #000,
         1px -1px 0 #000,
