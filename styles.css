@@ -199,16 +199,12 @@ label[for="commentBox"] {
         grid-column: 3 / span 8;
     }
 
+    .imagetext {
+        font-size: x-large;
+    }
+
     .content {
         grid-column: 3 / span 8;
-    }
-
-    #contactForm input {
-        width: 80%;
-    }
-
-    #commentBox {
-        width: 80%;
     }
 
 }
