@@ -191,8 +191,9 @@ label[for="commentBox"] {
 /* Desktop display */
 
 @media only screen and (min-width: 1020px) {
+   
     #contactForm input {
-        width: 100%;
+        width: 80%;
     }
 
     #commentBox {
