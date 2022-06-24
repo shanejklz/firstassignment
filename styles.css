@@ -120,6 +120,23 @@ body {
         1px 1px 0 #000;
 }
 
+.contactdetails {
+    margin: 3%;
+}
+
+#contactForm input {
+    margin: 2%;
+    width: 100%;
+    padding: 12px 20px;
+}
+
+#commentBox {
+    width: 100%;
+    padding: 12px 20px;
+    resize: none;
+
+}
+
 .footer {
     background-color: #912703;
     margin: 1%;
