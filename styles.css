@@ -112,6 +112,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
     color: white;
     font-size: x-large;
     font-style: italic;
@@ -190,7 +191,7 @@ label[for="commentBox"] {
 
 /* Desktop display */
 
-@media only screen and (min-width: 1020px) {
+@media only screen and (min-width: 1200px) {
    
     #contactForm input {
         width: 80%;
