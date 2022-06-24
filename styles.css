@@ -76,6 +76,10 @@
     margin: 1%;
 }
 
+#introText p {
+    font-style: italic;
+}
+
 .articlebox {
 
 }
