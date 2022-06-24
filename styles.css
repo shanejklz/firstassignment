@@ -14,6 +14,13 @@
     gap: 24px;
 }
 
+body {
+    background-image: url('./images/backgroundimage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .2;
+}
+
 .header {
     background: rgb(195, 143, 34);
     background: linear-gradient(0deg, rgba(195, 143, 34, 1) 0%, rgba(122, 165, 211, 1) 43%, rgba(0, 74, 180, 1) 100%);
@@ -73,6 +80,8 @@
 
 }
 
+#backgroundImage {}
+
 .content h2 {
     margin: 1%;
     text-align: center;
@@ -84,9 +93,7 @@
     text-align: center;
 }
 
-.articlebox {
-
-}
+.articlebox {}
 
 .articlebox img {
     display: block;
@@ -105,13 +112,13 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size:medium;
+    font-size: medium;
     font-style: italic;
     text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
 }
 
 .footer {
