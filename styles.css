@@ -125,6 +125,10 @@ body {
     color: #0272b3;
 }
 
+.news-article {
+    margin: 3%;
+}
+
 .contactdetails {
     margin: 3%;
 }
