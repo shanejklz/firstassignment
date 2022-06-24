@@ -120,6 +120,10 @@ body {
         1px 1px 0 #000;
 }
 
+.newsheading {
+    color: #1492db;
+}
+
 .contactdetails {
     margin: 3%;
 }
