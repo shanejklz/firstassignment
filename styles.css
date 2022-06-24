@@ -74,10 +74,12 @@
 
 .content h3 {
     margin: 1%;
+    text-align: center;
 }
 
 #introText p {
     font-style: italic;
+    text-align: center;
 }
 
 .articlebox {
