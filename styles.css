@@ -36,7 +36,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xxx-large;
     font-weight: bold;
-    font-style:italic;
+    font-style: italic;
     text-shadow:
         -1px -1px 0 #000,
         1px -1px 0 #000,
@@ -163,7 +163,7 @@ label[for="commentBox"] {
     margin-bottom: 1%;
     width: 100%;
     padding: 12px 20px;
-    height: 50vh;
+    height: 40vh;
     resize: none;
 
 }
@@ -187,4 +187,17 @@ label[for="commentBox"] {
     color: white;
     text-align: center;
     vertical-align: middle;
+}
+
+/* Desktop display */
+
+@media only screen and (min-width: 1020px) {
+    #contactForm input {
+        width: 100%;
+    }
+
+    #commentBox {
+        width: 80%;
+    }
+
 }
