@@ -129,11 +129,12 @@ body {
 }
 
 #contactForm legend {
-    
+
 }
 
 #contactForm input {
-    width: 70%;
+    display: block;
+    width: 80%;
     margin-top: 1%;
     margin-bottom: 1%;
     padding: 12px 20px;
