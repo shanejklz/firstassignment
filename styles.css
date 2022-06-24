@@ -176,7 +176,6 @@ label[for="commentBox"] {
 
 .footer {
     background-color: #912703;
-    margin: 1%;
     grid-column: 1 / span 12;
     grid-row: 6;
     text-align: center;
