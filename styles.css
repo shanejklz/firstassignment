@@ -124,10 +124,19 @@ body {
     margin: 3%;
 }
 
+#contactForm {
+    
+}
+
 #contactForm input {
-    margin: 2%;
     width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
     padding: 12px 20px;
+}
+
+label[for="commentBox"] {
+    display: none;
 }
 
 #commentBox {
