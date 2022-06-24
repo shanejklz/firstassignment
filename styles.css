@@ -120,8 +120,8 @@ body {
         1px 1px 0 #000;
 }
 
-.newsheading {
-    color: #1492db;
+.news-heading {
+    color: #0272b3;
 }
 
 .contactdetails {
@@ -151,7 +151,7 @@ label[for="commentBox"] {
 }
 
 #commentBox {
-    width: 100%;
+    width: 80%;
     padding: 12px 20px;
     resize: none;
 
