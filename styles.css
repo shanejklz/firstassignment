@@ -89,6 +89,7 @@ body {
 
 #introText p {
     margin: 2%;
+    line-height: 1.2;
     font-style: italic;
     text-align: center;
 }
@@ -122,11 +123,13 @@ body {
 }
 
 .news-heading {
+    margin: 2%;
     color: #0272b3;
 }
 
 .news-article {
-    margin: 3%;
+    margin: 4%;
+    line-height: 1.2;
 }
 
 .contactdetails {
