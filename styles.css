@@ -171,6 +171,7 @@ label[for="commentBox"] {
 #submitButton {
     background-color: #9ac3db;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .footer {
