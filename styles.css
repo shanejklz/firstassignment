@@ -99,6 +99,7 @@ body {
 .articlebox img {
     display: block;
     max-width: 100%;
+    height: auto;
     margin: auto;
     padding: 2%;
 }
@@ -193,9 +194,11 @@ label[for="commentBox"] {
 
 @media only screen and (min-width: 1100px) {
 
-    .navigation [ grid-column: 3 / span 8;
+    .navigation {
+        grid-column: 3 / span 8;
+    }
 
-    ] .content {
+    .content {
         grid-column: 3 / span 8;
     }
 
