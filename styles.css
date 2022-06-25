@@ -94,8 +94,6 @@ body {
     text-align: center;
 }
 
-.articlebox {}
-
 .articlebox img {
     display: block;
     max-width: 100%;
@@ -151,7 +149,6 @@ body {
 
 #contactForm legend {
     margin-bottom: 2%;
-
 }
 
 #contactForm input {
