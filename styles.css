@@ -138,6 +138,11 @@ body {
     margin: 3%;
 }
 
+.contactdetails h3 {
+    margin: 1%;
+    font-size: large;
+}
+
 #contactForm fieldset {
     border: none;
     margin: 3%;
