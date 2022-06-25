@@ -129,7 +129,7 @@ body {
     color: #0272b3;
 }
 
-.news-article {
+.news-article p {
     margin: 4%;
     line-height: 1.4;
 }
@@ -208,5 +208,9 @@ label[for="commentBox"] {
 
     .imagetext {
         font-size: x-large;
+    }
 
+    .news-article p {
+        grid-column-start: 4;
+    }
 }
